@@ -1,4 +1,4 @@
-### อันเก่าโดนเเฮ็ค 👋
+### อันเก่าโดนเเฮ็ค 
 
 <!--
 **poteieiei/poteieiei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
